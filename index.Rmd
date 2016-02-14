@@ -12,19 +12,10 @@ knit        : slidify::knit2slides
 
 --- .class #id 
 
-## Introduction
+## Introduction of Data
 
-- Get student data including their demorgraphic information and course grades
-- Compare period grade by gender
-- Build regression model to predict final grade 
-- Present the predict result with Shiny App
-
---- .class #id 
-
-## Data Resource  
-
-- Student achievement in secondary education of two Portuguese schools  
-- Collected from school reports and questionnaires    
+- Student achievement data in secondary education of two Portuguese schools  
+- Demorgraphic information and course grades collected from school reports and questionnaires    
 - Using Math course record in this project  
 - URL: https://archive.ics.uci.edu/ml/datasets/Student+Performance# 
  
